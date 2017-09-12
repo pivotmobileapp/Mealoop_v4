@@ -1,0 +1,17 @@
+{
+    "name": "com.mealoop",
+    "version": "4.0.0",
+    "displayName": "Mealoop",
+    "cordova": {
+        "platforms": [
+            "android"
+        ],
+        "plugins": {
+            "cordova-plugin-request-location-accuracy": {}
+        }
+    },
+    "dependencies": {
+        "cordova-android": "^6.2.3",
+        "cordova-plugin-request-location-accuracy": "~2.2.0"
+    }
+}
