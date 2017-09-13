@@ -45,7 +45,7 @@
     <preference name="orientation" value="portrait" />
     <preference name="android-build-tool" value="gradle" />
     <gap:plugin name="cordova-plugin-whitelist" source="npm" />
-    <gap:plugin name="phonegap-plugin-push" source="npm" spec="1.5.3" />
+    <gap:plugin name="phonegap-plugin-push" source="npm" spec="1.9.0" />
     <gap:plugin name="com.paypal.cordova.mobilesdk" source="npm" />
     <gap:plugin name="cordova-plugin-device" source="npm" />
     <gap:plugin name="cordova-plugin-inappbrowser" source="npm" />
@@ -53,7 +53,6 @@
     <gap:plugin name="cordova-plugin-geolocation" source="npm" />
     <gap:plugin name="cordova-plugin-network-information" source="npm" />
     <gap:plugin name="cordova-plugin-x-toast" source="npm" />
-    <gap:plugin name="phonegap-plugin-push" source="npm" spec="1.5.3" /> 
     <gap:plugin source="git" spec="https://github.com/rodrigo-martinezd/cordova-dialog-gps.git" />
     <gap:plugin source="git" spec="https://github.com/razorpay/razorpay-cordova.git" />
 <gap:plugin name="cordova-plugin-media" source="npm"/>
